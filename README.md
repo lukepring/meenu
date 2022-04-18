@@ -18,3 +18,4 @@ Python library LifxLan is used to facilitate communication between Meenu and LIF
 ### Screenshot
 ![Screenshot of Meenu UI](https://cdn.lukepring.co.uk/meenu/Screenshot1.png)
 
+**Google Chrome /  Chromium must be installed on the device for Meenu to work.**
