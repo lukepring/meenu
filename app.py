@@ -56,7 +56,10 @@ def getLightColor(lightID, format):
         return hsl
     else:
         return lightColor
-    
+
+@eel.expose
+def setColor(lightID, color):
+    lights[lightID].set_color([],)
 
 # Get light brightness value from ID. (JS)
 @eel.expose
@@ -66,12 +69,12 @@ def getLightBrightness(lightID):
 # Set light brightness. Light specified with ID. (JS)
 @eel.expose
 def setBrightness(value, lightID):
-    lights[lightID].set_brightness(value)
+    lights[lightID].set_brightness(value, 150)
 
 # Push JS to update light info every 5 seconds
 def refreshPush():
     while True:
-        eel.sleep(2)
+        eel.sleep(10)
         eel.refresh()
 
 eel.spawn(refreshPush)
