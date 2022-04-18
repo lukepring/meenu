@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="67.725mm" height="119.34mm" version="1.1" viewBox="0 0 67.725 119.34" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-51.115 -48.779)">
+  <g transform="matrix(1.9589 0 0 1.9589 .76318 -46.204)">
+   <g fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.6908">
+    <rect x="25.704" y="48.486" width="15.337" height="15.337" style="paint-order:markers fill stroke"/>
+    <rect x="25.704" y="67.722" width="15.337" height="15.337" style="paint-order:markers fill stroke"/>
+    <rect x="44.939" y="67.722" width="15.337" height="15.337" style="paint-order:markers fill stroke"/>
+    <rect x="44.939" y="48.486" width="15.337" height="15.337" style="paint-order:markers fill stroke"/>
+   </g>
+   <g transform="matrix(.77703 0 0 .77703 -39.112 -53.807)">
+    <g transform="translate(.036511 -.25558)" fill="#ffffff" stroke-width="0">
+     <path d="m98.287 203.15 7.4117 7.1561v-9.9675s-4.7829-0.43813-7.4117 2.8113z"/>
+     <path d="m113.11 203.15-7.4117 7.1561v-9.9675s4.7829-0.43813 7.4117 2.8113z"/>
+    </g>
+    <g transform="translate(-9.7849 23.221)">
+     <g transform="translate(9.2034 -22.896)" fill="#ffffff" stroke-width="0">
+      <path d="m84.413 189.2 6.3529 6.1338s5.9148-6.1338 15.262-5.9148"/>
+      <path d="m106.03 189.42v-8.8356s-14.093-0.3651-21.614 8.6166"/>
+      <g transform="matrix(-1 0 0 1 212.06 0)">
+       <path d="m84.413 189.2 6.3529 6.1338s5.9148-6.1338 15.262-5.9148"/>
+       <path d="m106.03 189.42v-8.8356s-14.093-0.3651-21.614 8.6166"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
