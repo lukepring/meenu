@@ -59,7 +59,7 @@ def getLightColor(lightID, format):
 
 @eel.expose
 def setColor(lightID, color):
-    lights[lightID].set_color([test],)
+    lights[lightID].set_color([],)
 
 # Get light brightness value from ID. (JS)
 @eel.expose
