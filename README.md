@@ -5,6 +5,8 @@ Named after a cow, Meenu is an easy-to-use LIFX client created in Python & JavaS
 
 Meenu uses the Python library Eel to provide a web based GUI powered by the Google Chrome/Chromium installation on the user's device.
 
+Python library LifxLan is used to facilitate communication between Meenu and LIFX lights.
+
 ### Features
 
 - Control 1 light 
