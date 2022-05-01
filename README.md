@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.lukepring.co.uk/meenu/newlogo.png" width="100px">
+  <img src="https://cdn.lukepring.co.uk/meenu/newlogo2.png" width="100px">
   <h1>Meenu - Desktop LIFX Client</h1>
 </div>
 
