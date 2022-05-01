@@ -3,10 +3,8 @@
   <h1>Meenu - Desktop LIFX Client</h1>
 </div>
 
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-[![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/lukepring/meenu/graphs/commit-activity)
+[![GitHub tag](https://img.shields.io/github/tag/lukepring/meenu.svg)](https://GitHub.com/lukepring/meenu/tags/)
 
 Named after a cow, Meenu is an easy-to-use LIFX client created in Python & JavaScript. 
 
