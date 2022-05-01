@@ -1,5 +1,7 @@
-# Meenu - Desktop LIFX Client
-
+<div align="center">
+  <img src="https://cdn.lukepring.co.uk/meenu/newlogo.png" width="100px">
+  <h1>Meenu - Desktop LIFX Client</h1>
+</div>
 
 Named after a cow, Meenu is an easy-to-use LIFX client created in Python & JavaScript. 
 
